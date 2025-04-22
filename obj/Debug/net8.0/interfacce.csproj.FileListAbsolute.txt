@@ -1,0 +1,14 @@
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/bin/Debug/net8.0/interfacce
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/bin/Debug/net8.0/interfacce.deps.json
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/bin/Debug/net8.0/interfacce.runtimeconfig.json
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/bin/Debug/net8.0/interfacce.dll
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/bin/Debug/net8.0/interfacce.pdb
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/obj/Debug/net8.0/interfacce.GeneratedMSBuildEditorConfig.editorconfig
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/obj/Debug/net8.0/interfacce.AssemblyInfoInputs.cache
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/obj/Debug/net8.0/interfacce.AssemblyInfo.cs
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/obj/Debug/net8.0/interfacce.csproj.CoreCompileInputs.cache
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/obj/Debug/net8.0/interfacce.dll
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/obj/Debug/net8.0/refint/interfacce.dll
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/obj/Debug/net8.0/interfacce.pdb
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/obj/Debug/net8.0/interfacce.genruntimeconfig.cache
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/obj/Debug/net8.0/ref/interfacce.dll
