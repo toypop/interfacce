@@ -12,3 +12,4 @@
 /home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/obj/Debug/net8.0/interfacce.pdb
 /home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/obj/Debug/net8.0/interfacce.genruntimeconfig.cache
 /home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/obj/Debug/net8.0/ref/interfacce.dll
+/home/toypop/Documenti/edu-its/itsDrive/c# dotNet/interfacce/obj/Debug/net8.0/interfacce.sourcelink.json
