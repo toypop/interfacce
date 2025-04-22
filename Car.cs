@@ -4,7 +4,8 @@ namespace interfacce
 {
     public class Car : IVehicle
     {
-        public string Model{ get;set;}
+        public string Model{set{}}
+        // public string Model;
         public Car(string model)
         {
             this.Model=model;
